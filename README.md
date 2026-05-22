@@ -4,7 +4,7 @@ A complete end-to-end data analytics project that predicts
 customer churn and generates actionable business playbooks.
 
 ## 🚀 Live Demo
-👉 [Click here to view the app](<your-streamlit-url-here>)
+👉 [https://customer-churn-7kugmsdb6zd9q2jylxs96y.streamlit.app/)
 
 ## 📊 Project Overview
 A company is losing customers but doesn't know why.
