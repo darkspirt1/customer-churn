@@ -59,7 +59,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('WA_Fn-UseC_-Telco-Customer-Churn.csv')
+    df = pd.read_csv('data/WA_Fn-UseC_-Telco-Customer-Churn.csv')
     df['TotalCharges'] = pd.to_numeric(df['TotalCharges'], errors='coerce')
     df.dropna(subset=['TotalCharges'], inplace=True)
     df['Churn'] = df['Churn'].map({'Yes': 1, 'No': 0})
