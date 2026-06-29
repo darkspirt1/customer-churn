@@ -21,4 +21,4 @@ This project solves that with:
 - **Streamlit** — Interactive dashboard
 - **Power BI ready** — CSV exports included
 
-## 📁 Project Structure
+
